@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+PyPDF2
+reportlab
+Pillow
+flask
+gevent
